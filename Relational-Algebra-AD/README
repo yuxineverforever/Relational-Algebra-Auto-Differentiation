@@ -1,0 +1,12 @@
+# Anonymous Repository for ICML 2023 submission: Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning.
+
+This is a tool for auto differentiating computations specified in Relational Algebra. The generated backprop can be imported/implemented on top of a RDBMS.
+
+`example.py` is an example about how to differetiate a two layer MLP.
+
+Three benchmarks:
+(1) NNMF
+(2) GCN
+(3) KGE
+
+RJPs are mainly implemented under `relationAD.py`.
