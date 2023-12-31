@@ -1,5 +1,18 @@
 # Auto-Differentiation of Relational Computations for Very Large Scale Machine Learning
 
+📌 Paper: https://proceedings.mlr.press/v202/tang23a/tang23a.pdf
+
+📌 Website: https://relational-autodiff.github.io/
+
+## Directory Structure
+- `Relational-Algebra-AD`
+  - Auto-Differentiation library for relational algebra.
+- `TestGCN`
+  - A Graph Convolutional Networks (GCN) by relational algebra.
+
+## News
+- **[2023.12.08]** Our RA auto differentiation has been integrated with ![Amazon Redshift](https://aws.amazon.com/redshift/features/redshift-ml/)! 🔥🔥🔥
+
 ## Citation
 Please consider citing the our paper if you find it helpful. Thank you!
 ```
@@ -22,5 +35,4 @@ Please consider citing the our paper if you find it helpful. Thank you!
 ```
 
 ## Acknowledgements
-
-This repo is built upon the previous work [PlinyCompute](https://arxiv.org/abs/1711.05573). Thanks to the authors for their great work!
+This repo is built upon the previous work [PlinyCompute](https://arxiv.org/abs/1711.05573) and [AutoDiff](https://github.com/autodiff/autodiff). Thanks for their wonderful works.
