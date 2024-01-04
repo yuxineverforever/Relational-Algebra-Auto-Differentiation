@@ -13,6 +13,11 @@
 ## News
 - **[2023.12.08]** Our RA auto differentiation has been integrated with ![Amazon Redshift](https://aws.amazon.com/redshift/features/redshift-ml/)! 🔥🔥🔥
 
+## Installation
+
+- `Relational-Algebra-AD` run with `example.py`
+- `TestGCN` needs to be run as an application on top of our previous work [PlinyCompute](https://arxiv.org/abs/1711.05573)
+
 ## Citation
 Please consider citing the our paper if you find it helpful. Thank you!
 ```
